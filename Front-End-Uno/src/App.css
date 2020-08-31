@@ -1,0 +1,58 @@
+.header {
+  text-align: center;
+}
+h1{
+  padding-top: 40px;
+  text-align: center;
+  color: rgb(253, 222, 43);
+  text-shadow: -1px 0 rgb(112, 6, 6), 0 1px rgb(121, 5, 5), 1px 0 rgb(240, 32, 32), 0 -1px rgb(248, 29, 29);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+  color:rgb(165, 5, 5);
+  padding:10px;
+}
+
+Button{
+  justify-content:center;
+  padding-bottom: 200px;
+  -moz-box-shadow: 0 0 10px #ccc;
+  -webkit-box-shadow: 0 0 10px #ccc;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.hand {
+  width: 180px;
+  margin: auto;
+  padding: 0em;
+}
+
+.hand:hover, #top:hover
+{
+  -moz-box-shadow: 0 0 10px rgb(167, 10, 10);
+  -webkit-box-shadow: 0 0 10px rgb(194, 11, 11);
+  box-shadow: 0 0 10px rgb(179, 13, 13);
+}
+
+#body{
+  background-image: linear-gradient(red, yellow);
+  padding-bottom: 200px;
+  padding-top: 55px
+}
+ 
+#playerTitle, #nrt{
+  text-align: center;
+}
+
+#headIMG{
+  width: 50%/9;
+  box-shadow: aliceblue;
+  border-radius: 75%;
+  box-shadow: 5px 5px 5px 2px rgb(17, 14, 4);
+  opacity: 0.8;
+}
+
+h5{
+  text-align: right;
+  padding-top: 60px;
+}
